@@ -53,7 +53,7 @@ InAmigos-SEM_6-INTERNSHIP/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/DEVBHALODIYA777/InAmigos-SEM_6-INTERNSHIP.git
+git clone https://github.com/khusheesonagra/SEM-6_INTERNSHIP.git
 ```
 
 Open the project folder and launch **`index.html`** in your browser.
