@@ -1,1 +1,0 @@
-# InAmigos-SEM_6-INTERNSHIP
